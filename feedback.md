@@ -11,4 +11,4 @@ Pros:
 
 Improvements:
 - When writing to the blockchain, which we do for the register function, that change has to be included in a block and mined.  That means there is a long loading   time.  This is not expressed to the user and those new to blockchain development (your target audience) may become confused
-- Didn't find code snipper button until I was done.  Great feature that I think is at a weird place on interface.  
+- Didn't find code snippet button until I was done.  Great feature that I think is at a weird place on interface.  
