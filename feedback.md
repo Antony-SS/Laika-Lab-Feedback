@@ -1,6 +1,6 @@
 I am a learning blockchain developer and only just recently finshed my first project on ethereum.  Coming from a place of very little experience I was impressed with how easy the Laika app was to use. 
 
-Writing the actual smart contracts is not the hard part of development for beginners with any sort of coding experience.  The hard part is connecting an an ethereum node on the frontend and actually calling those functions once the contract is deployed on the network.  The Laika app makes this a much easier and begginer friendly process.
+Writing the actual smart contracts is not the hard part of development for beginners with some sort of coding experience.  The hard part is connecting an an ethereum node on the frontend and actually calling those functions once the contract is deployed on the network.  The Laika app makes this a much easier and begginer friendly process.
 
 Pros:
 - Dark Mode is great
