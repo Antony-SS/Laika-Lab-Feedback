@@ -6,7 +6,7 @@ Pros:
 - Dark Mode is great
 - Very user friendly interface.  Can see what a functions a contract has, its parameters, and what it returns all very clearly
 - Helps visualize smart contract and its functions, like a menu you can order from
-- Love that it shows type of function.  This is one of the more confusing parts of solidity and helps make it clear what each function does
+- Love that it shows the type of function (i.e view, pure)  This is one of the more confusing parts of solidity and helps make it clear what each function does
 - Code snippets of what is going on under the hood is a great way for user to learn.  
 
 Improvements:
